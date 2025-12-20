@@ -70,6 +70,4 @@ Comparative analysis of tools and optimization techniques.
 
 ---
 
-*"Data engineering is not just about moving data, but about creating reliable, scalable, and cost-effective data infrastructure that enables business intelligence and machine learning at scale."*
-
-*Last Updated: $(date)*
+"Data engineering is not just about moving data, but about creating reliable, scalable, and cost-effective data infrastructure that enables business intelligence and machine learning at scale."
