@@ -1,4 +1,4 @@
-# ELITE DATA ENGINEERING PORTFOLIO
+# DATA ENGINEERING PORTFOLIO
 
 ##  About Me
 Senior Data Engineer specializing in building petabyte-scale data platforms, real-time streaming systems, and cloud-native data infrastructure with expertise across AWS, GCP, and Azure.
@@ -70,4 +70,4 @@ Comparative analysis of tools and optimization techniques.
 
 ---
 
-"Data engineering is not just about moving data, but about creating reliable, scalable, and cost-effective data infrastructure that enables business intelligence and machine learning at scale."
+*"Data engineering is not just about moving data, but about creating reliable, scalable, and cost-effective data infrastructure that enables business intelligence and machine learning at scale."*
