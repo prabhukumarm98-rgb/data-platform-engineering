@@ -1,4 +1,4 @@
-# INFRASTRUCTURE AS CODE
+# platform-infra
 
 ## Overview
 Production-grade infrastructure management for petabyte-scale data platforms. Everything as code, everything versioned, everything automated.
