@@ -70,7 +70,7 @@ Performance and efficiency experiments.
 
 ## Technology Stack
 
-**Cloud**: AWS  
+**Cloud**: AWS,Azure,GCP
 **Data Processing**: Spark, Kafka, Airflow  
 **Data Storage**: S3, Snowflake, PostgreSQL  
 **Infrastructure**: Terraform, Docker  
